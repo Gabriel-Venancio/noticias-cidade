@@ -17,7 +17,6 @@ body {
     height: 150px;
     background: url(../imagens/detalhe-topo.png) no-repeat right top;
     padding-top: 25px;
-    /* border: 1px solid red; */
 }
 
 .logo {
@@ -70,4 +69,68 @@ body.fotos #navegacao a#fotos {
     color: #FFF;
     background: #DE003E;
     cursor: text;
+}
+
+#conteudo {
+    margin-top: 60px;
+    background: #F5F5F5;
+}
+
+#primario {
+    width: 270px;
+    float: left;
+    margin: 0 0 20px 195px;
+    background: blue;
+}
+
+#duas-colunas #primario {
+    width: 555px;
+}
+
+#uma-coluna #primario {
+    width: 750px;
+    margin: 0 0 20px 0;
+}
+
+#secundario {
+    width: 270px;
+    float: left;
+    margin: 0 0 20px 15px;
+    background: green;
+}
+
+#lateral {
+    width: 180px;
+    float: left;
+    margin: 0 0 20px -750px ;
+}
+
+.caixa {
+    margin: 10px 0;
+    padding: 5px;
+    background: #F3F3F3 url(../imagens/fundo-caixa.png);
+}
+
+h2 {
+    font-size: 1em;
+    background: #294C71;
+    color: #FFF;
+    padding: 5px;
+}
+
+.caixa-conteudo {
+    background: #FFF;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+#container-rodape {
+    background: #294C71;
+    padding: 20px;
+}
+
+#rodape {
+    width: 750px;
+    margin: 0 auto;
+    color: #FFF;
 }
