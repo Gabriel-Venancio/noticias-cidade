@@ -6,19 +6,13 @@
 ![Badge](https://img.shields.io/github/stars/Gabriel-Venancio/noticias-cidade)
 ![Badge](https://img.shields.io/github/license/Gabriel-Venancio/noticias-cidade)
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#pre-requisitos">Pré-requisitos</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
 
 <h1 align="center">
   <img alt="Notícias Cidade" title="#Notícias Cidade" src="./imagens/demo.gif" />
 </h1>
 
 ### :dart: Objetivo
+
 
 Criar um site de notícias, com barra de navegação no topo, na lateral, conteúdo de notícias em layout com colunas e estilização, colocando em prática conhecimentos adquiridos em HTML e CSS.
 
