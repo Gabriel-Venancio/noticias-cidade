@@ -9,6 +9,9 @@
 
 <h1 align="center">
   <img alt="Notícias Cidade" title="#Notícias Cidade" src="./imagens/demo.gif" />
+  <img scr="./screenshots/home.png />
+  <img scr="./screenshots/brasil.png />
+  <img scr="./screenshots/fotos.png />
 </h1>
 
 ### :dart: Objetivo
