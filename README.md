@@ -15,7 +15,7 @@
 ### :dart: Objetivo
 
 
-Criar uma landing page de notícias, com barra de navegação no topo, na lateral, conteúdo de notícias em layout com colunas e estilização, colocando em prática conhecimentos adquiridos em HTML e CSS.
+Criar uma landing page de notícias, com barra de navegação no topo, na lateral, conteúdo de notícias em layout com colunas e fixo, colocando em prática conhecimentos adquiridos em HTML e CSS.
 
 ### :blush: Pré-requisitos
 
