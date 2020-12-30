@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./imagens/logo.png"</h1>
+<h1 align="center"><img src="./imagens/logo.png"></h1>
 <p align="center">Landing Page notícias criado para praticar conhecimentos em Front-End</p>
 
 ![Badge](https://img.shields.io/github/issues/Gabriel-Venancio/noticias-cidade)
