@@ -1,5 +1,5 @@
 <h1 align="center">Notícia Cidade</h1>
-<p align="center">Site de notícias criado para praticar conhecimentos em Front-End</p>
+<p align="center">Landing Page notícias criado para praticar conhecimentos em Front-End</p>
 
 ![Badge](https://img.shields.io/github/issues/Gabriel-Venancio/noticias-cidade)
 ![Badge](https://img.shields.io/github/forks/Gabriel-Venancio/noticias-cidade)
@@ -15,7 +15,7 @@
 ### :dart: Objetivo
 
 
-Criar um site de notícias, com barra de navegação no topo, na lateral, conteúdo de notícias em layout com colunas e estilização, colocando em prática conhecimentos adquiridos em HTML e CSS.
+Criar uma landing page de notícias, com barra de navegação no topo, na lateral, conteúdo de notícias em layout com colunas e estilização, colocando em prática conhecimentos adquiridos em HTML e CSS.
 
 ### :blush: Pré-requisitos
 
